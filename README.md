@@ -25,7 +25,7 @@
 1. 克隆仓库：
 ```bash
 git clone [repository-url]
-cd vendsense-website
+cd xlsvendsense
 ```
 
 2. 安装依赖（如果需要）：
