@@ -227,11 +227,6 @@ nav .container {
     gap: 1rem;
 }
 
-.app-store-button img {
-    height: 60px;
-    transition: transform 0.3s;
-}
-
 .app-icon {
     margin-bottom: 1.5rem;
 }
